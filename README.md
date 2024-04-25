@@ -1,3 +1,5 @@
 <h1>이인원 / leeinwon</h1>
 웹 개발 백엔드 개발자가 되고 싶어 공부하고 있습니다. 지금은 스프링 위주로 공부하고 있습니다.<br>
 취미로는 음악감상, 프라모델, 키보드가 있습니다.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
