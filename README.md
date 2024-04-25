@@ -4,7 +4,6 @@
 <h1>연락처</h1>
 <ul>
   <li>지메일 : inwon.private@gmail.com</li>
-  <li><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></li>
 </ul>
 <br>
 <br>
