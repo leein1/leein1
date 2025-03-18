@@ -1,6 +1,18 @@
-<h1>이인원 / leeinwon</h1>
+# 이인원 / leeinwon
+<br>
 
-<h1>기술 스택</h1>
+### 소개
+<br>
+백엔드 개발자가 되고 싶어 공부중입니다. 비전공이라는 말을 듣지 않기 위해 열심히 노력하고 싶습니다.<br>
+탐구하는것을 좋아하며, 분명한 목표를 가진 개발자가 되는것이 꿈입니다.<br>
+남들이 해서 하는것이 아닌, 이유가 중요하다는 말을 이제 이해했습니다.<br>
+<br>
+
+### email
+- inwon.private@icloud.com
+- inwon.private@gmail.com
+
+## 기술 스택
 
 ### 백엔드
 <span>
@@ -28,7 +40,16 @@
     <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"><br>  
 </span>
 
-<h1>자격증</h1>
-<ul>
-  <li>리눅스 마스터 2급 취득</li>
-</ul>
+## 자격증
+<br>
+
+### 취득
+<hr>
+리눅스 마스터 2급
+<br>
+<br>
+
+### 취득하고 싶은 자격 및 공부
+<hr>
+정보처리 기능사 
+sqld
